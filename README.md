@@ -18,10 +18,10 @@ Furthermore, we were requested to create a visualization map for the dataframe a
 
 * Dataframe visualization:
 
-![dataframe visualization]()
+![dataframe visualization](https://github.com/cami5326/python-api-challenge/blob/main/WeatherPy/dataframe%20visualization.PNG)
 
 * Hotels for an ideal vacation spot:
 
-![ideal vacation spot hotels]()
+![ideal vacation spot hotels](https://github.com/cami5326/python-api-challenge/blob/main/WeatherPy/ideal%20vacation%20spot%20hotels.PNG)
 
 —
